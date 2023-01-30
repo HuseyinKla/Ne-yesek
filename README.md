@@ -1,6 +1,6 @@
 # Ne Yesek
 
-A new Flutter project.
+If you can't decide what you want to eat, check this app :)
 
 ## Getting Started
 
